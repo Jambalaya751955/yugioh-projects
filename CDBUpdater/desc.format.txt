@@ -1,0 +1,6 @@
+{PendScaleDesc} = {PendScale}
+[ {PendEffectDesc} ]
+{PendEffect}
+----------------------------------------
+[ {CardTextDesc} ]
+{CardText}
